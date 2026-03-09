@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Hatsune Miku",
     "password": "",
     "type": "offline"
   },
@@ -30,9 +30,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Technoblade never dies.",
-        "Subscribe to ashUzuhia!",
-        "I love to play Minecraft!"
+        "Mikudayo!!"
       ]
     },
     "chat-log": true,
